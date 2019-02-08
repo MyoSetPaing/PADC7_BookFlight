@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FligntBook</string>
+    <string name="book_you_flight">Book you flight</string>
+    <string name="roundtrip">Roundtrip</string>
+    <string name="oneway">One way</string>
+    <string name="flight">Flight</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="departure">Departure</string>
+    <string name="return_date">Return</string>
+    <string name="passenger">Passenger</string>
+    <string name="seat_class">Class</string>
+    <string name="search_flight">Search Flight</string>
+    <string name="best_value_offers_to_europe">Best Value Offers to Europe!</string>
+    <string name="prague">Prague</string>
+    <string name="from_860">From $860</string>
+</resources>
